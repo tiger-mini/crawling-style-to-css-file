@@ -2,6 +2,9 @@
 自动爬取在线UI定义的样式名称到css文件中，免去手动搬运之苦
 
 
+### 效果
+![效果](https://gitee.com/mm376064383/assets/raw/master/img/crawling-style-to-css-file/result.gif)
+
 ### 简介
 该包借助superagent、cheerio这两个库来实现在线文件的抓取和抓取内容的解析。
 
@@ -40,7 +43,8 @@ selector: 要操作的选择器
 
 targetFilePath 要输出的内容文件地址 目录+文件 (相对项目根目录) 或绝对路径 D:/xxxx/constant.less 
 
-![字段配置说明](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/crawling-syle-to-css-file.png)
+![字段配置说明](https://gitee.com/mm376064383/assets/raw/master/img/crawling-style-to-css-file/crawling-syle-to-css-file.png)
 
 
-![url地址对应的文档](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/crawling-docs-online.png)
+![url地址对应的文档](https://gitee.com/mm376064383/assets/raw/master/img/crawling-style-to-css-file/crawling-docs-online.png)
+
