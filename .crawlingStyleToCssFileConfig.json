@@ -1,0 +1,11 @@
+{
+  "url": "https://docs.qq.com/sheet/DQ2pyQkRyVnJ0UGxZ?tab=BB08J2",
+  "selector": ".DTable tbody tr:gt(1)",
+  "targetFilePath": "./constant.less",
+  "isSubtitle": true,
+  "nameSelector": "td:eq(3)",
+  "valueSelector": "td:eq(5)",
+  "isNeedNote": true,
+  "describSelector": "td:eq(1)",
+  "scenceSelector": "td:eq(2)"
+}
