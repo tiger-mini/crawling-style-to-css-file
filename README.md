@@ -7,8 +7,11 @@
 
 
 <video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png">
-<source id="mp4" src="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4" type="video/mp4">
+    <source id="mp4" src="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4" type="video/mp4">
 </video>
+
+--
+[![Watch the video](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png)](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4)
 
 
 ### 简介
