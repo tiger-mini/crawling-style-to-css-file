@@ -2,16 +2,9 @@
 自动爬取在线UI定义的样式名称到css文件中，免去手动搬运之苦
 
 
-### 效果
-![效果](https://gitee.com/mm376064383/assets/raw/master/img/crawling-style-to-css-file/result.gif)
+### 点击图片 观看视频查看效果
 
-
-<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png">
-    <source id="mp4" src="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4" type="video/mp4">
-</video>
-
---
-[![Watch the video](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png)](https://haokan.baidu.com/v?vid=10511329221170373518&pd=pcshare)
+[![点击图片观看效果](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png)](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4)
 
 
 ### 简介
