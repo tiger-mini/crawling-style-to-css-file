@@ -5,6 +5,12 @@
 ### 效果
 ![效果](https://gitee.com/mm376064383/assets/raw/master/img/crawling-style-to-css-file/result.gif)
 
+
+<video id="video" controls="" preload="none" poster="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png">
+<source id="mp4" src="https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4" type="video/mp4">
+</video>
+
+
 ### 简介
 该包借助superagent、cheerio这两个库来实现在线文件的抓取和抓取内容的解析。
 

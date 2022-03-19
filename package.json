@@ -1,6 +1,6 @@
 {
   "name": "crawling-online-style-constant-to-css-file",
-  "version": "1.7.0",
+  "version": "1.8.0",
   "description": "自动获取设计师在线定义的样式变量到指定的css文件中，免去手动搬运之苦",
   "main": "index.js",
   "scripts": {
