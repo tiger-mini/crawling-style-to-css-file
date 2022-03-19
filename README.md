@@ -11,7 +11,7 @@
 </video>
 
 --
-[![Watch the video](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png)](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/result.mp4)
+[![Watch the video](https://raw.githubusercontent.com/tiger-mini/assets/main/img/crawling-style-to-css-file/cover.png)](https://haokan.baidu.com/v?vid=10511329221170373518&pd=pcshare)
 
 
 ### 简介
